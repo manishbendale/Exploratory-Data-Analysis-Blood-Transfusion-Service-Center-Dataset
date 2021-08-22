@@ -1,0 +1,1 @@
+This is the full EDA analysis on the dataset contains the information of blood donor, which is collected by "Blood Transfusion Service Center" in Hsin-Chu City in Taiwan. The center passes their blood transfusion service bus to one university in Hsin-Chu City to gather blood donated about every three months.
